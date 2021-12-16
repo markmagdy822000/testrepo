@@ -1,11 +1,2 @@
-hello
+all deleted
 
-publish in  github
-a
-<<<<<<< HEAD
- again and again
- 
-
-=======
-deleted from github
->>>>>>> main
